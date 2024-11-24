@@ -1,0 +1,8 @@
+sudo su - 
+apt update -y
+git clone 
+git init
+ls -la
+ls
+ls -l
+mkdir project1
