@@ -6,3 +6,4 @@ ls -la
 ls
 ls -l
 mkdir project1
+cat ----> cat command ---> Terminal cmd use Ctrl+D or Ctrl+C
