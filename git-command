@@ -1,0 +1,21 @@
+sudo su - 
+apt update -y
+git clone 
+git init
+ls -la
+ls
+ls -l
+mkdir project1
+cat ----> cat command ---> Terminal cmd use Ctrl+D or Ctrl+C
+
+There are three location of th git
+--------------------------------------------------------------------------------
+Working Directory(WD) | Staging Area(SA) | Local Repo(LR)   | Remote Repo(RR)  |
+                      |                  |                  |                  |
+                      |                  |                  |                  |
+--------------------------------------------------------------------------------
+Step  1.The basic code will be availabel in the working directory.
+Step  2.next stage is the staging area what command we need to use git add 
+
+
+git commit ----> when we use this command the code move to Stagging area in to local repo .
